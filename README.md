@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Home</title>
 <link type="text/css" rel="stylesheet" href="css/my-first-stylesheet.css"/>
 <head>
 <body>
