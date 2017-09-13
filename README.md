@@ -1,13 +1,13 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-<title>About Us</title>
+<title>Home</title>
 <link type="text/css" rel="stylesheet" href="css/my-first-stylesheet.css"/>
-</head>
+<head>
 <body>
-<h1>About Us</h1>
-<p><img src="images/banner.png"alt="Ariel Studios" /></p>
-<p> We are Ariel Studio.</p>
-<p>Our names are Gabriel Camejo and Tristan Camejo</p>
-</body>
-</html>
+<h1>Welcome To Ariel Studios</h1>
+<ul>
+	<li><a href="about-us.html">About Us</li>
+	<li><a href="our-songs.html">Our Songs</li>
+</ul>
